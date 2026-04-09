@@ -1,4 +1,5 @@
 # 📊 Análise de Dados + Dashboard Power BI
+![Dashboard](dashboard01.png)
 
 ## 🚀 Sobre o Projeto
 Este projeto realiza análise de dados utilizando Python e apresenta os resultados em um dashboard interativo no Power BI.
@@ -11,7 +12,7 @@ Este projeto realiza análise de dados utilizando Python e apresenta os resultad
 - Power BI
 
 ---
-
+![Dashboard](painel.png)
 ## 📈 Etapas do Projeto
 ✔️ Leitura dos dados  
 ✔️ Tratamento e limpeza  
